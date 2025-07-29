@@ -1,4 +1,4 @@
-<h1 align="left">Hello! I'm <a href="https://www.joellab.com">Joel (Jiawei) Wang</a> 👋</h1>
+<h1 align="left">Hello! I'm <a href="https://www.linkedin.com/in/jwjoel">Joel (Jiawei) Wang</a> 👋</h1>
 <br>
 <div align="left">
   <a href="mailto:joel.bradley.w@gmail.com" target="_blank">
@@ -16,9 +16,9 @@
 </div>
 <br>
 
-- <span style="">GSR at Cognitive Robotics Laboratory - **University of California, San Diego**.  </span><br>
+- <span style="">PhD in Robotics - **University of California, San Diego**.  </span><br>
 - <span style="display: block; margin-bottom: 12px;">Expertise in Java, C++, and Python, focusing on Robotics, LLM, Cyber Security, and Mathematical Modeling.  </span><br>
-- <span style="display: block; margin-bottom: 12px;">Had the pleasure of working at [@Alibaba](https://www.alibabagroup.com/en-US/), [@Hisense](https://hisense.com/), and [@SCO](http://eng.sectsco.org/) as Backend Engineer.  </span><br>
+- <span style="display: block; margin-bottom: 12px;">Had the pleasure of working at [@Alibaba](https://www.alibabagroup.com/en-US/), [@Hisense](https://hisense.com/), and [@SCO](http://eng.sectsco.org/).  </span><br>
 - <span style="display: block; margin-bottom: 12px;">Pen technical articles &#x1F4DD; and participate in hackathons - **Imagine Cup 2021: [EAME Runner Up - Green Vault](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-the-2022-imagine-cup-epic-challenge-winners/ba-p/3029957)**.  </span><br>
 
 <h3 align="left">Badges</h3>
